@@ -18,7 +18,7 @@
           <div class="product1-content-right-download">
             <img src="../../assets/images/product1/download.png" alt="">
             <div class="product1-content-right-download-text">
-              <a href="http://www.reiff-tp.cn/download/授权证书/14. Bader 产品手册.pdf" target="_blank" download="化学粘合和密封.pdf">{{ $t('Adhesive.BaderTorque') }}</a>
+              <a href="http://www.reiff-tp.cn/download/授权证书/14. Bader 产品手册.pdf" target="_blank" download="Bader 产品手册.pdf">{{ $t('Adhesive.BaderTorque') }}</a>
             </div>
           </div>
         </div>
