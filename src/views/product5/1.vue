@@ -108,6 +108,15 @@
           </div>
         </li>
       </ul>
+      <div class="download-sub-title">{{ $t('Download.BaderDocuments') }}</div>
+      <ul>
+        <li>
+          <img src="../../assets/images/product2/location.png" alt="" />
+          <div class="download-content2-box-text">
+              <a href="http://www.reiff-tp.cn/download/授权证书/14. Bader 产品手册.pdf" target="_blank" download="01 Epple密封产品.pdf">{{ $t('Download.BaderTorque') }}</a>
+          </div>
+        </li>
+      </ul>
     </div>
   </div>
 </template>

@@ -107,15 +107,18 @@
   },
   "Adhesive": {
     "AdhesiveSealant": "Adhesive, Sealant and Lubricant",
-    "REIFFProvides": "REIFF provides a full range of Henkel Loctite, Epple adhesive and sealants, Technicoll adhesives, Wacker Silicone, Sika Sealants, OKS Lubricants, Tesa Tapes and other high quality German products.",
+    "BaderTorque": "Bader torque sealant",
+    "REIFFProvides": "REIFF provides a full range of Henkel Loctite, Epple adhesive and sealants, Technicoll adhesives, Wacker Silicone, Sika Sealants, OKS Lubricants, Tesa Tapes, Bader torque sealant and other high quality German products.",
     "ProductCatalog": "Product Catalog",
     "OfficialHenkel": "Official Henkel distributor both in Germany and China",
-    "HenkelLoctite": "Henkel Loctite is a leading global supplier in the field of adhesives, sealants and functional coating materials. With official authorization from both Henkel Germany and Henkel China, REIFF is an important partner of Henkel General Industries. REIFF offers Chinese customers a full range of Henkel products and optimized supply channels.",
+    "HenkelLoctite": "Henkel Loctite is a leading global supplier in the field of adhesives, sealants and functional coating materials. With official authorization from both Henkel Germany and Henkel China, REIFF is an important partner of Henkel General Industries. ",
     "OfficialWacker": "Official Wacker distributor in Germany",
     "ProjectAuthorization": "Project Authorization in China",
     "TheOrganicSilicone": "The organic silicone products from Wacker are renowned throughout the industry for its diversity and outstanding performance, and are widely used in the automotive, electronics, consumer electronics, telecommunications and semiconductor industries.",
     "ExclusiveTechnicoll": "Exclusive Technicoll Distributor for Chinese market",
     "TechnicollAdhesives": "Technicoll adhesives have a wide range of applications in large area bonding of plastic, metal, foam material, textile, leather, rubber, ceramic and insulator.",
+    "OfficialBader": "Official Bader Distributor for Chinese Markt",
+    "TheBader": "The Bader torque sealant is widely used in the industries such as automobile, precision machines, railway, wind energy and aircraft.",
     "ExclusiveEpple": "Exclusive Epple Distributor for Chinese market",
     "EppleProducts": "Epple products are resistant to chemical erosion, including acids and alkalis, and are also highly heat resistant, withstanding temperatures of up to 800°C. Epple sealants can achieve reliable sealing results in varying temperatures and chemical corrosion conditions. The full range of Epple products are silicone-free and widely used in the fields of coating, chemical and automobile industries.",
     "AnaerobicAdhesives": "Anaerobic adhesives",
@@ -151,11 +154,16 @@
     "ElasticAndPlastic": "Elastic and plastic sealants",
     "TheSealingOf": "The sealing of the joints requires excellent elasticity and temperature resistance, especially when the entire workpiece is subjected to wide temperature changes, impacts and vibrations. Sealants will deform when subjected to forces, and if it is sensitive to deformation, plastic sealants are a better choice.",
     "Lubricants": "Lubricants",
+    "TorqueSealant": "Torque Sealant",
     "Oil": "Oil",
+    "Bader": "Bader",
     "TheOil": "The oil has excellent thermal conductivity and also has excellent liquidity and permeability, making it an excellent choice in high temperature environment or high-speed environment. Common application scenarios are for example in the powertrain, chains, bearings, hydraulics or compressors.",
+    "TorqueLoosening": "Torque loosening indicator Visual inspection marker Tamper indicator Assigment indicator Threadlocker",
     "Grease": "Grease",
     "GreaseContent": "Grease is made by adding a thickener to the base oil to provide better adhesion to the part to be lubricated and to provide continuous lubrication, while also preventing external moisture and impurities from outside. It is usually used in bearings, rotating bodies, valves, guide rails, chains, etc.",
     "Paste": "Paste",
+    "BaderStandard": "Bader Standard",
+    "BaderZero": "Bader Zero ",
     "PasteContent": "Paste is similar to grease but has a higher proportion of solid content and has better lubrication, sealing and corrosion protection for extreme temperatures, pressure changes or highly corrosive media."
   },
   "Rubber": {
@@ -250,6 +258,7 @@
     "AuthorizedTechnicoll": "Authorized distributor of Technicoll",
     "AuthorizedEpple": "Authorized distributor of Epple",
     "AuthorizedLubricants": "Authorized dealer of OKS Lubricants",
+    "AuthorizedDis": "Authorized distributor of Bader torque sealant",
     "AuthorizedHazardous": "Chinese business license of Hazardous Chemical"
   },
   "Hazardous": {
@@ -283,7 +292,9 @@
     "13": "13 Hydraulic hoses ",
     "EppleDocuments": "Epple documents",
     "01sealing": "01 Epple sealing products",
-    "02products": "02 Epple bonding products"
+    "02products": "02 Epple bonding products",
+    "BaderDocuments": "Bader documents",
+    "BaderTorque": "Bader torque sealant"
   },
   "aboutUs": {
     "REIFFCompany": "REIFF Company has a history of more than 100 years. As early as 1910, Albert REIFF established Albert REIFF KG in Reutlingen, Germany, which specialized in rubber products.",

@@ -107,15 +107,18 @@
   },
   "Adhesive": {
     "AdhesiveSealant": "化学粘合和密封",
-    "REIFFProvides": "睿服提供全系列的汉高乐泰(Loctite)、Epple粘合密封胶、Technicoll粘合剂、 Wacker瓦克硅橡胶、Sika密封胶、OKS润滑剂、Tesa胶带等高质量的德系解决方案。",
+    "BaderTorque": "Bader螺纹标记胶",
+    "REIFFProvides": "睿服提供全系列的汉高乐泰(Loctite)、Epple粘合密封胶、Technicoll粘合剂、 Wacker瓦克硅橡胶、Sika密封胶、OKS润滑剂、Tesa胶带、Bader螺纹标记胶等高质量的德系解决方案。",
     "ProductCatalog": "下载产品手册",
     "OfficialHenkel": "中国区授权经销商",
-    "HenkelLoctite": "汉高乐泰是全球粘合剂、密封剂和功能涂层材料领域的重要供应商。睿服同时拥有德国汉高和中国汉高的官方授权，是汉高通用工业重要的合作伙伴。睿服为中国客户提供全系列的汉高产品和更优化的供货渠道。",
+    "HenkelLoctite": "全球粘合剂、密封剂和功能涂层材料领域的重要供应商。睿服同时拥有德国汉高和中国汉高的官方授权，为中国客户提供全系列的汉高产品和更优化的供货渠道。",
     "OfficialWacker": "Wacker德国区授权经销商",
     "ProjectAuthorization": "中国区项目授权",
     "TheOrganicSilicone": "瓦克公司的有机硅系列产品以其多样化及卓越性能享誉整个行业，在汽车电子、消费电子、通讯和半导体行业中有着广泛应用。",
     "ExclusiveTechnicoll": "Technicoll中国区总代理",
     "TechnicollAdhesives": "Technicoll 系列粘和剂在塑料、金属、发泡材料、纺织物、皮革、橡胶、陶瓷和绝缘等材料的大面积粘接上有着广泛的应用。",
+    "OfficialBader": "Bader 中国区代理",
+    "TheBader": "在航空、汽车、轨道交通、精密电子、机床设备、风电等行业中应用广泛的螺纹标记产品。",
     "ExclusiveEpple": "Epple中国区总代理",
     "EppleProducts": "Epple产品耐酸碱等化学侵蚀性，同时具有高耐热性，可承受高达800℃的温度。Epple密封胶可在不同温度和化学腐蚀条件下实现可靠的密封效果。Epple的全系列产品都不含硅，在喷涂、化工和汽车等领域应用广泛。",
     "AnaerobicAdhesives": "厌氧胶",
@@ -151,11 +154,16 @@
     "ElasticAndPlastic": "弹性和塑料密封胶",
     "TheSealingOf": "接缝部位的密封需要出色的弹性和耐温，特别是当整个工件遇到大范围的温度变化、碰撞和振动时。在受力时密封胶都会发生形变，如果对形变比较敏感，塑料密封胶是更好的选择。",
     "Lubricants": "润滑",
+    "TorqueSealant": "螺纹放松标记",
     "Oil": "润滑油",
+    "Bader": "螺纹标记",
     "TheOil": "油有很好的导热性，同时还具有出色的流动性和渗透性，因此在高温环境或者高转速环境下是非常好的选择。常见的应用场景例如在动力总成、链条、轴承、液压或者压缩机中。",
+    "TorqueLoosening": "汽车发动机、汽轮机、风电叶片、动车裙底板、转向架、制动装置等关键螺栓连接部位，一般在装配或检修完成后都会涂上防松标记胶， 防松标记胶彻底干燥后，会非常牢固的附着在螺栓上，如果螺丝发生松动或者被私自拆卸，固化后的安全防松标记胶就会发生明显的断裂和变形。",
     "Grease": "润滑脂",
     "GreaseContent": "润滑脂是在基础油里面添加增稠剂调配出来的，在待润滑部位有更好的附着性，可以持续起到润滑作用，同时还可以防止外界的湿气、杂质进入。通常使用在轴承、旋转体、阀门、导轨、链条等位置。",
     "Paste": "润滑膏",
+    "BaderStandard": "Bader 标准系列",
+    "BaderZero": "Bader 环保系列",
     "PasteContent": "润滑膏和润滑脂基础成分类似，但是固装物的比例更高，具备更好的润滑、密封和防腐蚀性能，适用于极端的温度、压力变化或者强腐蚀介质环境。"
   },
   "Rubber": {
@@ -250,6 +258,7 @@
     "AuthorizedTechnicoll": "Technicoll胶水中国代理授权",
     "AuthorizedEpple": "Epple胶水中国总代理授权",
     "AuthorizedLubricants": "OKS润滑剂销售授权",
+    "AuthorizedDis": "Bader中国区代理证书",
     "AuthorizedHazardous": "中国危险化学品经营许可证"
   },
   "Hazardous": {
@@ -283,7 +292,9 @@
     "13": "13产品手册液压软管 ",
     "EppleDocuments": "Epple资料下载",
     "01sealing": "01 Epple密封产品",
-    "02products": "02 Epple粘合产品"
+    "02products": "02 Epple粘合产品",
+    "BaderDocuments": "Bader资料下载",
+    "BaderTorque": "Bader 产品手册"
   },
   "aboutUs": {
     "REIFFCompany": "睿服已有百年历史。早在1910年，Albert REIFF就在德国罗伊特林根创建了Albert REIFF KG,专注橡胶产品。",

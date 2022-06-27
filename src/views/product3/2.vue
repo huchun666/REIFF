@@ -90,6 +90,12 @@
               <a href="http://www.reiff-tp.cn/download/授权证书/12. OKS润滑剂销售授权.pdf" target="_blank" download="OKS润滑剂销售授权.pdf">{{ $t('Authorization.AuthorizedLubricants') }}</a>
             </div>
           </li>
+          <li class="agency-content2-box">
+            <img src="../../assets/images/product2/location.png" alt="">
+            <div class="agency-content2-box-text">
+              <a href="http://www.reiff-tp.cn/download/授权证书/15. Bader 中国区代理证书.pdf" target="_blank" download="Bader中国区代理证书.pdf">{{ $t('Authorization.AuthorizedDis') }}</a>
+            </div>
+          </li>
         </ul>
         <ul class="agency-content2-box-bottom">
           <li class="agency-content2-box">

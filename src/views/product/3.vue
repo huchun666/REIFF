@@ -15,6 +15,12 @@
               <a href="http://www.reiff-tp.cn/download/产品一览&资料下载/1.3/产品手册_化学粘合和密封.pdf" target="_blank" download="化学粘合和密封.pdf">{{ $t('Adhesive.AdhesiveSealant') }}</a>
             </div>
           </div>
+          <div class="product1-content-right-download">
+            <img src="../../assets/images/product1/download.png" alt="">
+            <div class="product1-content-right-download-text">
+              <a href="http://www.reiff-tp.cn/download/授权证书/14. Bader 产品手册.pdf" target="_blank" download="化学粘合和密封.pdf">{{ $t('Adhesive.BaderTorque') }}</a>
+            </div>
+          </div>
         </div>
       </div>
       <div class="product3-content2">
@@ -26,6 +32,10 @@
           <div class="product3-content2-left-bottom" :class="{'product3-content2-left-top-active': content3}" @mouseover="handleHoverContent('content3')" @mouseout="handleOutContent('content3')">
             <div class="product3-content2-left-top-title">{{ $t('Adhesive.ExclusiveTechnicoll') }}</div>
             <div class="product3-content2-left-top-content">{{ $t('Adhesive.TechnicollAdhesives') }}</div>
+          </div>
+          <div class="product3-content2-left-bottom" :class="{'product3-content2-left-top-active': content5}" @mouseover="handleHoverContent('content5')" @mouseout="handleOutContent('content5')">
+            <div class="product3-content2-left-top-title">{{ $t('Adhesive.OfficialBader') }}</div>
+            <div class="product3-content2-left-top-content">{{ $t('Adhesive.TheBader') }}</div>
           </div>
         </div>
         <div class="product3-content2-middle">
@@ -367,6 +377,29 @@
           </div>
         </div>
       </div>
+      <div class="product3-content3">
+        <div class="product3-content2-title-box">
+          <div class="product3-content2-title">{{ $t('Adhesive.TorqueSealant') }}</div>
+        </div>
+        <div class="product3-content3-example">
+          <div class="product3-content3-example-text">
+            <div class="product3-content3-example-text-box">
+              <div class="product3-content3-example-text-title">{{ $t('Adhesive.Bader') }}</div>
+              <div class="product3-content3-example-text-box-text">
+                {{ $t('Adhesive.TorqueLoosening') }}
+              </div>
+            </div>
+          </div>
+          <div class="product3-content3-example-middle">
+            <img src="../../assets/images/product7/21.png" alt="">
+            <div class="product3-content3-example-middle-text"><div class="product3-content3-example-middle-text-box">{{ $t('Adhesive.BaderStandard') }}</div></div>
+          </div>
+          <div class="product3-content3-example-middle">
+            <img src="../../assets/images/product7/22.png" alt="">
+            <div class="product3-content3-example-middle-text"><div class="product3-content3-example-middle-text-box">{{ $t('Adhesive.BaderZero') }}</div></div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </template>
@@ -409,6 +442,7 @@ export default {
       content2: false,
       content3: false,
       content4: false,
+      content5: false,
     };
   },
   computed: {
