@@ -26,7 +26,7 @@
       <div class="product3-content2">
         <div class="product3-content2-left">
           <div class="product3-content2-left-top" :class="{'product3-content2-left-top-active': content1}" @mouseover="handleHoverContent('content1')" @mouseout="handleOutContent('content1')">
-            <div class="product3-content2-left-top-title">{{ $t('Adhesive.OfficialHenkel') }}</div>
+            <div class="product3-content2-left-top-title">{{ $t('Adhesive.OfficialHenkel') }}<br>{{ $t('Adhesive.Authorizeddistributor') }}</div>
             <div class="product3-content2-left-top-content">{{ $t('Adhesive.HenkelLoctite') }}</div>
           </div>
           <div class="product3-content2-left-bottom" :class="{'product3-content2-left-top-active': content3}" @mouseover="handleHoverContent('content3')" @mouseout="handleOutContent('content3')">
